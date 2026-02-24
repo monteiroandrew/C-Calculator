@@ -5,7 +5,7 @@ using System.Linq;
 
 class program
 {
-    public static void Main(string[] args)
+    public static void second(string[] args)
         {
     start:
         Console.WriteLine("Basic Calculator");
