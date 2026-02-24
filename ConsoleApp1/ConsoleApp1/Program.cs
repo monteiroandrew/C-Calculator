@@ -202,6 +202,7 @@ class program
         }
 
         Console.Clear();
+        Console.WriteLine("Nice Andrew!");
         Console.WriteLine("Thankyou!");
         Console.WriteLine("Press any key to exit..");
         Console.ReadKey();
